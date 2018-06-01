@@ -4,6 +4,9 @@ Build status: [![Build Status](https://travis-ci.org/letscontrolit/ESPEasy.svg?b
 
 Introduction and wiki: https://www.letscontrolit.com/wiki/index.php/ESPEasy#Introduction
 
+** yanggq's ver based v2.0:**
+Plantower PTQS1005 is a composite sensor of particles, tvoc, hcho, co2 and temperature/humidity. The plugin of PTQS1005 added in this version. See the webform of this plugin or the source code to get instruction. Use the Custom.h if you want to build your binary including this plugin.
+
 **v2.0**
 :warning:This is the stable branch for the next upcoming ESPeasy release (2.0.0).:warning:
 
